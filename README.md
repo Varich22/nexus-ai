@@ -24,7 +24,7 @@ Monorepo :
 
 - **`backend/`** — API FastAPI + agent orchestrateur + outils
 - **`frontend/`** — UI Next.js (chat moderne, streaming)
-- **`docs/``** — Documentation architecture & décisions
+- **`docs/`** — Documentation architecture & décisions
 
 ```
 nexus-ai/
